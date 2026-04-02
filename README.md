@@ -23,3 +23,4 @@
 ## Colaboradores
 
 - Yago Montouro
+- Laryssa Cristiane
